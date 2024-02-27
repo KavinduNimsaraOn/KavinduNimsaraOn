@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @KavinduNimsaraOn
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Frontend, Backend, C++, Arduino, A.I. , Python, v python
+- 🌱 I’m currently learning Angular, A.I.
+- ⚡ Fun fact: I love A.I Robotics:
 
-<!---
-KavinduNimsaraOn/KavinduNimsaraOn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
